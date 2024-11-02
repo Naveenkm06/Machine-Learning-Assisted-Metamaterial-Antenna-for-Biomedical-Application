@@ -1,4 +1,4 @@
-Machine Learning Assisted Metamaterial Antenna for Biomedical Application
+## Machine Learning Assisted Metamaterial Antenna for Biomedical Application
 
 ## project overview
 This project combines metamaterial antenna design with machine learning to create a diagnostic tool for non-invasive skin cancer detection. Using terahertz (THz) frequencies, the metamaterial antenna is designed to differentiate between normal and cancerous skin tissues based on their unique electromagnetic responses.
