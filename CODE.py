@@ -68,10 +68,3 @@ print(f"Root Mean Squared Error (RMSE): {rmse:.2f}")
 # Perform cross-validation to evaluate generalization
 cv_scores = cross_val_score(model, X_scaled, y, cv=5)
 print(f"Cross-Validation Accuracy: {cv_scores.mean():.2f} ± {cv_scores.std():.2f}")
-
-
-# In[ ]:
-
-
-
-
