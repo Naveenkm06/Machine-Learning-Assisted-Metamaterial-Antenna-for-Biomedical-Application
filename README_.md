@@ -19,7 +19,7 @@ This project combines metamaterial antenna design with machine learning to creat
 
 *Conclusion
 
-*Setup and Usage
+
 
 *References
 ## Background
@@ -65,8 +65,11 @@ Random Forest Model: Achieved 93% accuracy, demonstrating effective classificati
 The project successfully demonstrates a method for non-invasive skin cancer detection using metamaterial antenna technology combined with machine learning. The results showcase potential applications in biomedical diagnostics, particularly for identifying cancerous tissue without the need for invasive procedures.
 ## References
 Jain, P. et al. (2022). Design of an ultra-thin hepta-band metamaterial absorber for sensing applications. Optical and Quantum Electronics, 54, 569.
-He, X. et al. (2022). Terahertz metamaterial-based medical diagnosis systems using machine learning models. IEEE Transactions on Terahertz Science and Technology, 12(3), 445-456.
-[Add additional references as needed]
+
+He, X. et al. (2022). Terahertz metamaterial-based medical diagnosis systems using machine learning models. 
+
+IEEE Transactions on Terahertz Science and Technology, 12(3), 445-456.
+
 ## contact
 
 
